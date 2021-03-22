@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Ravi+Prakash&display=swap');
+
+*{
+  align-self: center;
+}
+
+html, body {
+  align-self: center;
+  align-items: center;
+  align-content: center;
+  margin-left: 250px;
+  /* margin-top: 29px; */;
+  font-family: 'Ravi Prakash', cursive;
+  padding: 0;
+  /* background-color: black; */
+  background-image: url(https://th.bing.com/th/id/R15cfecd4ff74c88c9f000760e7de0d75?rik=%2fZNGwQYpXe4YOA&riu=http%3a%2f%2fgetwallpapers.com%2fwallpaper%2ffull%2ff%2ff%2fc%2f1100295-free-cool-dark-backgrounds-1920x1200-lockscreen.jpg&ehk=u3xEuYuE4pBwOQP1m9YAJ0M297IPhsg6M6Ym3aljpGA%3d&risl=&pid=ImgRaw);
+}
+
+canvas {
+  display: block;
+}
+
+h1{
+  padding-left: 140px;
+  font-size: 40px;
+  color: red;
+}
+
